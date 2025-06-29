@@ -356,15 +356,15 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
-<!-- ASSIGNMENT-4_CELEBAL-TECHNOLOGIES/
-│
-├── .gitignore
-├── lib-install.sh # Dependency installation script
-├── requirements.txt # Python dependencies
-├── README.md # This file
-├── police_project.csv
-│
-├── Stanford-open-policing-project.zip # Dataset 
-│ 
-│
-├── EDA.ipynb -->
+- ASSIGNMENT-4_CELEBAL-TECHNOLOGIES/
+- │
+- ├── .gitignore
+- ├── lib-install.sh # Dependency installation script
+- ├── requirements.txt # Python dependencies
+- ├── README.md # This file
+- ├── police_project.csv
+- │
+- ├── Stanford-open-policing-project.zip # Dataset 
+- │ 
+- │
+- ├── EDA.ipynb
